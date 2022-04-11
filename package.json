@@ -3,6 +3,7 @@
   "displayName": "tweetvalidator",
   "description": "Determines if selected text is a valid tweet",
   "version": "0.0.1",
+  "repository": "https://github.com/grasshoppermouse/tweetvalidator",
   "engines": {
     "vscode": "^1.66.0"
   },
